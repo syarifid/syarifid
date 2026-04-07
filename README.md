@@ -1,7 +1,7 @@
 # Muhammad Syarifudin
 
-Bandung, Indonesia • **IT Manager (Data & Information Systems)** • Backend / Cloud / GovTech  
-📧 muhammad.el.syarifudin@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+Bandung, Indonesia • **IT Manager (Data & Information Systems)** • Backend / AI Enthusiast / GovTech  
+📧 muhammad.el.syarifudin@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/)
 
 ---
 
@@ -9,7 +9,7 @@ Bandung, Indonesia • **IT Manager (Data & Information Systems)** • Backend /
 
 I’m an IT Manager and engineer with a strong background in **government integrated systems**, **data portals / open data**, and **cloud-native backend development**. I’ve led cross-functional teams delivering national and sub-national digital public services, improved governance and security practices, and recently focused on **AI adoption in government contexts** (RAG, model serving, and API-based LLM integrations).
 
-- 🌱 Currently learning: **advanced DevOps**, **Kubernetes**, and deeper **AI/LLM implementation for public sector use-cases**
+- 🌱 Currently learning: **advanced DevOps**, **Neural Network**, and deeper **AI/LLM implementation for public sector use-cases**
 - 👯 Open to collaborate on: **GovTech**, **open data portals**, **RAG/knowledge systems**, and **backend & infra automation**
 - ⚡ Interests: security governance, scalable backend systems, pragmatic AI integrations
 
@@ -103,10 +103,10 @@ I’m an IT Manager and engineer with a strong background in **government integr
 ## 📫 Let’s Connect
 
 - Email: **muhammad.el.syarifudin@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/your-link-here**
+- LinkedIn: **https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/**
 - Location: **Bandung, Indonesia**
 
- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+ 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/)
 
 ---
 
