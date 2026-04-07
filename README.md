@@ -1,115 +1,73 @@
-# Muhammad Syarifudin
+### Hi, I'm Syarif
 
-Bandung, Indonesia • **IT Manager (Data & Information Systems)** • Backend / AI Enthusiast / GovTech  
-📧 muhammad.el.syarifudin@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/)
+**IT Manager & Backend Engineer** based in Bandung, Indonesia.
 
----
-
-## About Me
-
-I’m an IT Manager and engineer with a strong background in **government integrated systems**, **data portals / open data**, and **cloud-native backend development**. I’ve led cross-functional teams delivering national and sub-national digital public services, improved governance and security practices, and recently focused on **AI adoption in government contexts** (RAG, model serving, and API-based LLM integrations).
-
-- 🌱 Currently learning: **advanced DevOps**, **Neural Network**, and deeper **AI/LLM implementation for public sector use-cases**
-- 👯 Open to collaborate on: **GovTech**, **open data portals**, **RAG/knowledge systems**, and **backend & infra automation**
-- ⚡ Interests: security governance, scalable backend systems, pragmatic AI integrations
+I build government digital systems that actually work — from national data portals to village-level information systems across Indonesia. Currently leading IT delivery at **SKALA** (Australia-Indonesia Partnership), where I bridge the gap between policy goals and working software.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### What I Do
 
-| Category | Skills |
-|---|---|
-| Management | Engineering Management, Product Management, Delivery & Stakeholder Coordination |
-| Workflow | Claude code, Codex CLI, Cursor IDE |
-| Programming Languages | Java, Python, Go, JavaScript, PHP |
-| Backend & Frameworks | Django, Node.js, Echo, Chi, Laravel |
-| AI / LLM Integration | LangChain, RAG, Ollama, OpenAI API, Claude API |
-| DevOps / IaC | Docker, Terraform, Ansible, CI/CD |
-| Cloud | AWS (Lambda, EC2, Route53, ECR/ECS, Step Functions), GCP |
-| Databases | PostgreSQL, MySQL |
-| Testing / QA | Cypress, Appium, Bitbar, K6 |
-| Monitoring | Prometheus, Grafana |
+**Government Tech & Data Systems** — Led integration of cross-ministry platforms (Bappenas, MoHA, MoF) and championed **Satu Data Indonesia** / Open Government Data initiatives across provinces.
+
+**AI in Public Sector** — Researching and implementing practical AI: RAG pipelines, local model serving with Ollama, and LLM integrations (OpenAI, Claude) for government use-cases.
+
+**Backend & Infrastructure** — 8+ years building backend services in Java, Go, Python, and Node.js. Strong focus on clean architecture, cloud-native deployments (AWS), and observability.
+
+**Team & Delivery** — Managed cross-functional IT teams, ran training roadshows across 8 cities in Papua, and helped collect 500K+ population records for government planning.
 
 ---
 
-## 💼 Professional Experience
+### Tech I Work With
 
-<details>
-<summary><strong>SKALA (Australia–Indonesia Partnership)</strong> — IT Manager (Data & Information System) • Nov 2022 – Present</summary>
-
-- Researched and implemented **AI in government contexts**: local model runs via **Ollama**, **RAG** approaches, and LLM integrations using **OpenAI** and **Claude** APIs.
-- Led IT delivery supporting cross-ministry system integration (e.g., **SEPAKAT (Bappenas)**, **SIPD-RI (MoHA)**, **SIKD Next-Gen (MoF)**, **SIPPP (Bappenas)**).
-- Coordinated managed IT + engagement teams at sub-national level to implement **Satu Data Indonesia** and **Satu Data Pemerintahan Dalam Negeri**, including development of a data portal for **Open Government Data** initiatives.
-- Evolved engineering stack from **PHP** to **JavaScript + Python frameworks**, and migrated infrastructure towards **AWS** services.
-- Supported governance improvements for **Papua Barat** to achieve **ISO 27001:2022** certification and integration compliance across applications.
-
-</details>
-
-<details>
-<summary><strong>KOMPAK (Australia–Indonesia Partnership)</strong> — IT Specialist (KOMPAK–BaKTI) • Oct 2019 – Jun 2022</summary>
-
-- Managed IT team delivering an **integrated village information system** concept and implementation for government stakeholders.
-- Conducted code reviews, task management (Trello/JIRA), and onboarding/training for new team members.
-- Delivered training roadshows across **8 cities** in Papua & Papua Barat for village cadres (data collection, entry, and analysis).
-- Helped collect and operationalize large-scale population datasets: **~350,000 records (Papua Barat)** and **~150,000 records (Papua)**.
-- Supported Aceh Government with **SIGAP (Sistem Informasi Gampong)** roadmap and assessments.
-- Designed integration for **REGSOSEK** with local information systems across Aceh, Papua, and Papua Barat.
-
-</details>
-
-<details>
-<summary><strong>QePon (Singapore)</strong> — Senior Backend Engineer • Aug 2017 – Dec 2024</summary>
-
-- Built and improved backend services (Java), including a new registration method for a privacy-focused messaging application.
-- Implemented automated QA using **Appium** and device live testing with **Bitbar**.
-- Built CI/CD and infrastructure automation using **Terraform** and **Ansible**.
-- Contributed to **LEKA**, a secure messaging application for closed communities.
-
-</details>
-
-<details>
-<summary><strong>viuGraph (Indonesia)</strong> — Backend Engineer • Aug 2023 – Dec 2024</summary>
-
-- Developed backend JavaScript services compatible with AWS environments.
-- Produced monthly analytics/reporting based on user behavior.
-- QA using **Bitbar** live device testing.
-- Deployed using AWS services: **Lambda**, **Step Functions**, **Cloud9**, **EC2**, **Route53**.
-
-</details>
-
-<details>
-<summary><strong>Dexa Asia</strong> — Co-founder (Part-time) • 2020 – Present</summary>
-
-- Built a digital platform for SMEs (e.g., toy stores) to manage cash flow, transactions, and performance reporting via web-based tools.
-
-</details>
-
-<details>
-<summary><strong>Prasimax</strong> — Embedded Software Engineer Intern • 2015</summary>
-
-- Embedded software internship experience (details available on request).
-
-</details>
+```text
+Languages    Go, Python, Java, JavaScript, PHP
+Backend      Django, Node.js, Echo, Chi, Laravel
+AI/LLM       LangChain, RAG, Ollama, OpenAI API, Claude API
+Cloud        AWS (Lambda, ECS, ECR, Step Functions, EC2, Route53), GCP
+DevOps       Docker, Terraform, Ansible, CI/CD
+Data         PostgreSQL, MySQL
+Monitoring   Prometheus, Grafana
+Testing      Cypress, Appium, K6
+Workflow     Claude Code, Codex CLI, Cursor IDE
+```
 
 ---
 
-## 🚀 Projects & Highlights
+### Notable Work
 
-- Built a high-performance backend in **Golang** within 3 months; load-tested using **K6**.
-- Improved performance through **goroutines**, database **indexing**, and **clean architecture**.
-- Shipped infrastructure using **AWS ECR/ECS**, and observability via **Prometheus + Grafana**.
-
----
-
-## 📫 Let’s Connect
-
-- Email: **muhammad.el.syarifudin@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/**
-- Location: **Bandung, Indonesia**
-
- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/)
+- Delivered backend services for **QePon** (Singapore) — secure messaging platform with privacy-first architecture
+- Built a high-performance **Go** backend in 3 months, load-tested with K6, deployed on AWS ECS with Prometheus + Grafana observability
+- Supported **Papua Barat** government in achieving **ISO 27001:2022** certification
+- Co-founded **Dexa Asia** — digital platform helping SMEs manage cash flow and transactions
+- Migrated legacy PHP stack to modern JavaScript + Python frameworks with AWS infrastructure
+- Designed and delivered **integrated village information systems** across Papua, Papua Barat, and Aceh
 
 ---
 
-_Thanks for visiting my profile — feel free to explore my repositories and reach out for collaboration._
-![Profile Views](https://komarev.com/ghpvc/?username=ngrhadi&style=for-the-badge)
+### Career Timeline
+
+```
+2022–now    SKALA (AU-ID Partnership)    IT Manager — Data & Information Systems
+2020–now    Dexa Asia                    Co-founder
+2023–2024   viuGraph                     Backend Engineer
+2019–2022   KOMPAK (AU-ID Partnership)   IT Specialist
+2017–2024   QePon (Singapore)            Senior Backend Engineer
+```
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syarifudin-24a5a4a3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammad.el.syarifudin@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syarifid&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syarifid&style=flat-square" alt="Profile Views" />
+</p>
