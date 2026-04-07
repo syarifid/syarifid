@@ -29,8 +29,6 @@ I’m an IT Manager and engineer with a strong background in **government integr
 | Databases | PostgreSQL, MySQL |
 | Testing / QA | Cypress, Appium, Bitbar, K6 |
 | Monitoring | Prometheus, Grafana |
-| Management | Engineering Management, Product Management, Delivery & Stakeholder Coordination |
-| Workflow | Claude code, Codex CLI, Cursor IDE |
 
 ---
 
