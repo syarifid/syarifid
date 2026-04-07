@@ -2,7 +2,7 @@
 
 **IT Manager & Backend Engineer** based in Bandung, Indonesia.
 
-I build government digital systems that actually work — from national data portals to village-level information systems across Indonesia. Currently leading IT delivery at **SKALA** (Australia-Indonesia Partnership), where I bridge the gap between policy goals and working software.
+I build government digital systems that actually work — whether it's national data portals or village-level information systems, each shaped by its own policy context. Currently leading IT delivery at **SKALA** (Australia-Indonesia Partnership), where I bridge the gap between policy goals and working software.
 
 ---
 
@@ -65,7 +65,7 @@ Workflow     Claude Code, Codex CLI, Cursor IDE
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syarifid&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syarifid&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
