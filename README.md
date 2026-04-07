@@ -65,9 +65,5 @@ Workflow     Claude Code, Codex CLI, Cursor IDE
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syarifid&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=syarifid&style=flat-square" alt="Profile Views" />
 </p>
