@@ -22,7 +22,7 @@ I’m an IT Manager and engineer with a strong background in **government integr
 | Management | Engineering Management, Product Management, Delivery & Stakeholder Coordination |
 | Workflow | Claude code, Codex CLI, Cursor IDE |
 | Programming Languages | Java, Python, Go, JavaScript, PHP |
-| Backend & Frameworks | Django, Node.js, REST APIs, clean architecture |
+| Backend & Frameworks | Django, Node.js, Echo, Chi, Laravel |
 | AI / LLM Integration | LangChain, RAG, Ollama, OpenAI API, Claude API |
 | DevOps / IaC | Docker, Terraform, Ansible, CI/CD |
 | Cloud | AWS (Lambda, EC2, Route53, ECR/ECS, Step Functions), GCP |
